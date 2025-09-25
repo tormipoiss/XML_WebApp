@@ -15,84 +15,102 @@ namespace xml_webapp
     {
 
         /// <summary>
-        /// form1 control.
+        /// form2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form2;
 
         /// <summary>
-        /// xml4 control.
+        /// inimesed1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml4;
+        protected global::System.Web.UI.WebControls.Xml inimesed1;
 
         /// <summary>
-        /// xml1 control.
+        /// inimesed2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml1;
+        protected global::System.Web.UI.WebControls.Xml inimesed2;
 
         /// <summary>
-        /// xml2 control.
+        /// inimesed3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml2;
+        protected global::System.Web.UI.WebControls.Xml inimesed3;
 
         /// <summary>
-        /// xml3 control.
+        /// inimesed4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml3;
+        protected global::System.Web.UI.WebControls.Xml inimesed4;
 
         /// <summary>
-        /// xml5 control.
+        /// inimesed5 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml5;
+        protected global::System.Web.UI.WebControls.Xml inimesed5;
 
         /// <summary>
-        /// xml6 control.
+        /// inimesed6 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml6;
+        protected global::System.Web.UI.WebControls.Xml inimesed6;
 
         /// <summary>
-        /// xml7 control.
+        /// inimesed7 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml7;
+        protected global::System.Web.UI.WebControls.Xml inimesed7;
 
         /// <summary>
-        /// xml8 control.
+        /// inimesed8 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml8;
+        protected global::System.Web.UI.WebControls.Xml inimesed8;
+
+        /// <summary>
+        /// inimesed9 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Xml inimesed9;
+
+        /// <summary>
+        /// inimesed10 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Xml inimesed10;
     }
 }

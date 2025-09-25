@@ -9,7 +9,7 @@ namespace xml_webapp
 {
 	public partial class WebForm2 : System.Web.UI.Page
 	{
-		protected void Page_Load(object sender, EventArgs e)
+		protected void Page_Load_2(object sender, EventArgs e)
 		{
 
 		}

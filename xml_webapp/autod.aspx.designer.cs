@@ -24,75 +24,93 @@ namespace xml_webapp
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// xml4 control.
+        /// autod1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml4;
+        protected global::System.Web.UI.WebControls.Xml autod1;
 
         /// <summary>
-        /// xml5 control.
+        /// autod2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml5;
+        protected global::System.Web.UI.WebControls.Xml autod2;
 
         /// <summary>
-        /// xml6 control.
+        /// autod3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml6;
+        protected global::System.Web.UI.WebControls.Xml autod3;
 
         /// <summary>
-        /// xml77 control.
+        /// autod4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml77;
+        protected global::System.Web.UI.WebControls.Xml autod4;
 
         /// <summary>
-        /// xml123 control.
+        /// autod5 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml123;
+        protected global::System.Web.UI.WebControls.Xml autod5;
 
         /// <summary>
-        /// xml1223 control.
+        /// autod6 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml1223;
+        protected global::System.Web.UI.WebControls.Xml autod6;
 
         /// <summary>
-        /// xml12223 control.
+        /// autod7 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml12223;
+        protected global::System.Web.UI.WebControls.Xml autod7;
 
         /// <summary>
-        /// xml1 control.
+        /// autod8 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml xml1;
+        protected global::System.Web.UI.WebControls.Xml autod8;
+
+        /// <summary>
+        /// autod9 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Xml autod9;
+
+        /// <summary>
+        /// autod10 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Xml autod10;
     }
 }

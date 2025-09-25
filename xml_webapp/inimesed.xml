@@ -1,28 +1,32 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <inimesed>
     <inimene>
         <eesnimi>Juku</eesnimi>
         <perenimi>Juurikas</perenimi>
         <synd>1963</synd>
 		<sugu>mees</sugu>
+		<mass ühik="kg">70</mass>
     </inimene>
     <inimene>
         <eesnimi>Juhan</eesnimi>
         <perenimi>Kaalikas</perenimi>
         <synd>1961</synd>
 		<sugu>mees</sugu>
+		<mass ühik="kg">200</mass>
     </inimene>
     <inimene>
         <eesnimi>Kalle</eesnimi>
         <perenimi>Kaalikas</perenimi>
         <synd>1975</synd>
 		<sugu>mees</sugu>
+		<mass ühik="kg">55</mass>
     </inimene>
     <inimene>
         <eesnimi>Mari</eesnimi>
         <perenimi>Maasikas</perenimi>
         <synd>1981</synd>
 		<sugu>naine</sugu>
+		<mass ühik="kg">65</mass>
     </inimene>
     <!-- <inimene>
         <eesnimi>Oskar</eesnimi>
