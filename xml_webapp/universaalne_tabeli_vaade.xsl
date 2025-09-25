@@ -14,8 +14,9 @@
 			</li>-->
 			<xsl:for-each select="*/*">
 				<li>
-					<xsl:for-each select="*[position() &lt;= 2]">
-						<xsl:value-of select="."/><xsl:text> </xsl:text>
+					<xsl:for-each select="*">
+						<xsl:value-of select="."/>
+						<xsl:if test="position() != last()">,</xsl:if>
 					</xsl:for-each>
 				</li>
 			</xsl:for-each>
