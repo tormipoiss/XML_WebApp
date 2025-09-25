@@ -7,17 +7,10 @@
 			<xsl:value-of select="name(*)" />
 		</h1>
 		<ul>
-			<!--<li>
-				<xsl:for-each select="*/*[1]/*">
-						<xsl:value-of select="name(.)" />
-				</xsl:for-each>
-			</li>-->
 			<xsl:for-each select="*/*">
 				<li>
-					<xsl:for-each select="*">
-						<xsl:value-of select="."/>
-						<xsl:if test="position() != last()">,</xsl:if>
-					</xsl:for-each>
+					<xsl:variable name="inimene" select="."/>
+					INSERT INTO inimesed (eesnimi, perenimi, synd, sugu, mass) VALUES ('<xsl:value-of select="$inimene/eesnimi"/>', '<xsl:value-of select="$inimene/perenimi"/>', '<xsl:value-of select="$inimene/synd"/>', '<xsl:value-of select="$inimene/sugu"/>', '<xsl:value-of select="$inimene/mass"/>');
 				</li>
 			</xsl:for-each>
 		</ul>
