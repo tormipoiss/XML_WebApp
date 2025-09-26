@@ -64,9 +64,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Elizabeth_ii_sugupuu\elizabeth-ii-sugupuu.xsl">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Elizabeth_ii_sugupuu\elizabeth_ii_sugupuu.xml" />
+    <Content Include="Elizabeth_ii_sugupuu\elizabeth-ii-sugupuu.aspx" />
+    <Content Include="mallid.aspx" />
+    <Content Include="mallid1.xsl" />
+    <Content Include="Parameetritega.aspx" />
     <Content Include="inimesed.aspx" />
     <Content Include="autod2.xsl" />
-    <Content Include="autod7.xsl" />
+    <Content Include="autod7.xsl">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="autod6.xsl" />
     <Content Include="autod5.xsl" />
     <Content Include="autod4.xsl" />
@@ -84,6 +94,8 @@
     <Content Include="Inimesed_mitu_kordust_ristuvad_perenimed.xsl" />
     <Content Include="Inimesed_mitu_kordust-ristuvad-perenimed-ise-tyhi.xsl" />
     <Content Include="Inimesed_mitu_kordust.xsl" />
+    <Content Include="parameetritega1.xsl" />
+    <Content Include="parameetritega2.xsl" />
     <Content Include="universaalne_struktuuri_vaade.xsl" />
     <Content Include="universaalne_tabeli_vaade.xsl" />
     <Content Include="Web.config" />
@@ -91,6 +103,27 @@
     <Content Include="autod.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Elizabeth_ii_sugupuu\elizabeth-ii-sugupuu.aspx.cs">
+      <DependentUpon>elizabeth-ii-sugupuu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Elizabeth_ii_sugupuu\elizabeth-ii-sugupuu.aspx.designer.cs">
+      <DependentUpon>elizabeth-ii-sugupuu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mallid.aspx.cs">
+      <DependentUpon>mallid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mallid.aspx.designer.cs">
+      <DependentUpon>mallid.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Parameetritega.aspx.cs">
+      <DependentUpon>Parameetritega.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Parameetritega.aspx.designer.cs">
+      <DependentUpon>Parameetritega.aspx</DependentUpon>
+    </Compile>
     <Compile Include="inimesed.aspx.cs">
       <DependentUpon>inimesed.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -118,6 +151,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="jsconfig.json" />
+    <Content Include="jsconfig1.json" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

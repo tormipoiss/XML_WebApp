@@ -15,30 +15,21 @@ namespace xml_webapp
     {
 
         /// <summary>
-        /// form3 control.
+        /// form4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form3;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form4;
 
         /// <summary>
-        /// btnApply control.
+        /// mallid1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnApply;
-
-        /// <summary>
-        /// parameetritega2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Xml parameetritega2;
+        protected global::System.Web.UI.WebControls.Xml mallid1;
     }
 }
